@@ -1,0 +1,4 @@
+baseURL = 'https://3388752540ding.github.io/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = "PaperMod"
