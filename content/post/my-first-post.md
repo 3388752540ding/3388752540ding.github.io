@@ -2,6 +2,10 @@
 date = '2026-09-05T20:02:28+08:00'
 draft = false
 title = 'My First Post'
+banner = "/images/60_b.webp"
+cover =  "/images/9_c.webp"
+
+
 +++
 
 # 《Linux ELF与C/C++底层运行机制全景揭秘》
